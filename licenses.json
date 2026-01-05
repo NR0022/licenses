@@ -1,14 +1,3 @@
 {
-    "users": [
-        {
-  "users": [
-    {
-      "license_key": "NR-123-ABC",
-      "expiry": "2025-12-31 23:59:59"
-    }
-  ]
-}
-
-    ]
-
+    "users": []
 }
