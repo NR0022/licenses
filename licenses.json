@@ -1,8 +1,3 @@
 {
-  "users": [
-    {
-      "license_key": "TEST-123",
-      "expiry": "2026-12-31 23:59:59"
-    }
-  ]
+    "users": []
 }
